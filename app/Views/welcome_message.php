@@ -49,7 +49,7 @@
 <!-- CONTENT -->
 
 <section>
-ini profle
+Selamat Datang, ini adalah Website 
             </section>
 
 <div class="further">
